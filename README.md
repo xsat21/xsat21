@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 # Hi there, I'm Xsat Cloud! 👋
@@ -154,4 +154,3 @@ PixForge is an open-source project focused on making image processing simple, ac
 ⭐ Thanks for visiting my GitHub profile!
 
 </div>
-```
